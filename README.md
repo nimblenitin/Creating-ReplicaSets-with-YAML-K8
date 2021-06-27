@@ -2,7 +2,8 @@
 A ReplicaSet's purpose is to maintain a stable set of replica Pods running at any given time.
 
 ## Simple example to ReplicaSets in Declarative method with YAML
-Steps followed-
+Steps followed:
+
 *As Root*
 ```
 
